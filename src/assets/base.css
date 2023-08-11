@@ -1,0 +1,15 @@
+:root {
+	--light: #ffffff;
+	--dark: #101010;
+	--orange: #fec970;
+	--brown: #fe9b71;
+	--pruple: #b592fd;
+	--blue: #00d4fe;
+	--yellow: #e3ee8e;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
